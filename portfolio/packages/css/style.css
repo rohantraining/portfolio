@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 20px;
+}
+
+@media screen and (max-width: 500px) {
+    .column {
+    align-items: center;
+      width: 100%;
+    }
+  }
